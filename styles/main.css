@@ -1,0 +1,53 @@
+
+/* John Estes - October 22, 2026 */
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Form styling */
+form {
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+/* Form labels */
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+/* Form inputs */
+input, textarea {
+    display: block;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #888;
+}
+
+/* Submit button */
+input[type="submit"] {
+    cursor: pointer;
+}
+
+/* Error message */
+.error {
+    color: red;
+}
+
+/* Success message */
+.success {
+    color: green;
+}
+
+/* Confirmation output */
+div {
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
